@@ -1,0 +1,279 @@
+fixture_id,datetime,timezone,venue,city,league,country,round,home_team,away_team,referee,duration
+1082378,2023-08-21T17:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 1,Aris,AEK Larnaca,C. Photiou,90
+1082385,2023-08-28T17:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 2,Aris,Doxa,A. Argyrou,90
+1082393,2023-09-03T17:00:00+00:00,UTC,Stadio Vitex Ammochostos Epistrofi,Larnaca,1. Division,Cyprus,Regular Season - 3,AE Zakakiou,Aris,M. Christoforou,90
+1082399,2023-09-17T16:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 4,Aris,Pafos,M. Antoniou,90
+1082408,2023-09-25T16:00:00+00:00,UTC,Neo GSP,Levkosía,1. Division,Cyprus,Regular Season - 5,Omonia Nicosia,Aris,N. Simović,90
+1082413,2023-09-30T16:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 6,Aris,Apollon Limassol,J. Sacchi,90
+1082423,2023-10-08T16:00:00+00:00,UTC,Stadio Antonis Papadopoulos,Larnaca,1. Division,Cyprus,Regular Season - 7,Anorthosis,Aris,S. Putros,90
+1082427,2023-10-21T16:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 8,Aris,Ethnikos Achna,M. Christoforou,90
+1082438,2023-10-30T17:00:00+00:00,UTC,Stadio Vitex Ammochostos Epistrofi,Larnaca,1. Division,Cyprus,Regular Season - 9,Othellos,Aris,C. Theouli,90
+1082441,2023-11-04T17:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 10,Aris,Nea Salamis,A. Techrany,90
+1082453,2023-11-12T17:00:00+00:00,UTC,Stadio Stelios Kyriakides,Paphos,1. Division,Cyprus,Regular Season - 11,Karmiotissa,Aris,M. Antoniou,90
+1082455,2023-11-25T17:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 12,Aris,Apoel Nicosia,N. Simović,90
+1082468,2023-12-04T17:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 13,AEL,Aris,K. Fellas,90
+1082469,2023-12-09T15:00:00+00:00,UTC,AEK Arena - George Karapatakis,Larnaca,1. Division,Cyprus,Regular Season - 14,AEK Larnaca,Aris,L. Fähndrich,90
+1082476,2023-12-18T17:00:00+00:00,UTC,Stadio Peristerona,Peristerona,1. Division,Cyprus,Regular Season - 15,Doxa,Aris,P. Hadjigeorghiou,90
+1082484,2023-12-22T17:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 16,Aris,AE Zakakiou,C. Photiou,90
+1082490,2024-01-03T17:00:00+00:00,UTC,Stadio Stelios Kyriakides,Paphos,1. Division,Cyprus,Regular Season - 17,Pafos,Aris,F. Fourneau,90
+1082499,2024-01-07T17:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 18,Aris,Omonia Nicosia,M. Antoniou,90
+1082504,2024-01-14T17:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 19,Apollon Limassol,Aris,G. Kabakov,90
+1082514,2024-01-22T17:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 20,Aris,Anorthosis,A. Dudic,90
+1082518,2024-01-28T17:00:00+00:00,UTC,Stadio Dasaki Achnas,Dasaki Achnas,1. Division,Cyprus,Regular Season - 21,Ethnikos Achna,Aris,K. Athanasiou,90
+1082529,2024-01-31T17:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 22,Aris,Othellos,A. Argyrou,90
+1082532,2024-02-06T17:00:00+00:00,UTC,Stadio Vitex Ammochostos Epistrofi,Larnaca,1. Division,Cyprus,Regular Season - 23,Nea Salamis,Aris,M. Christoforou,90
+1082544,2024-02-10T16:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 24,Aris,Karmiotissa,K. Athanasiou,90
+1082546,2024-02-15T18:00:00+00:00,UTC,Neo GSP,Levkosía,1. Division,Cyprus,Regular Season - 25,Apoel Nicosia,Aris,F. Dionisi,90
+1082559,2024-02-18T17:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Regular Season - 26,Aris,AEL,L. Massimi,90
+1175137,2024-02-25T17:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Championship Round - 1,Aris,Omonia Nicosia,M. Antoniou,90
+1176751,2024-03-04T16:00:00+00:00,UTC,AEK Arena - George Karapatakis,Larnaca,1. Division,Cyprus,Championship Round - 2,AEK Larnaca,Aris,M. Redder,90
+1176755,2024-03-10T17:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Championship Round - 3,Aris,Apoel Nicosia,S. Putros,90
+1176757,2024-03-16T17:00:00+00:00,UTC,Stadio Stelios Kyriakides,Paphos,1. Division,Cyprus,Championship Round - 4,Pafos,Aris,Luís Godinho,90
+1185143,2024-03-31T16:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Championship Round - 5,Aris,Anorthosis,K. Fellas,90
+1185145,2024-04-06T14:00:00+00:00,UTC,Neo GSP,Levkosía,1. Division,Cyprus,Championship Round - 6,Omonia Nicosia,Aris,R. Obrenović,90
+1185149,2024-04-14T16:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Championship Round - 7,Aris,AEK Larnaca,J. Kehlet,90
+1193402,2024-04-21T16:30:00+00:00,UTC,Neo GSP,Levkosía,1. Division,Cyprus,Championship Round - 8,Apoel Nicosia,Aris,Fábio Veríssimo,90
+1196497,2024-04-28T16:00:00+00:00,UTC,Alphamega Stadium,Kolossi,1. Division,Cyprus,Championship Round - 9,Aris,Pafos,M. Antoniou,90
+1196500,2024-05-11T16:00:00+00:00,UTC,Stadio Antonis Papadopoulos,Larnaca,1. Division,Cyprus,Championship Round - 10,Anorthosis,Aris,I. Christodoulou,90
+1083086,2023-08-05T17:00:00+00:00,UTC,Azərsun Arena,Baku,Premyer Liqa,Azerbaijan,Regular Season - 1,Qarabag,Zira,Ə. Ağayev,90
+1093865,2023-08-13T14:30:00+00:00,UTC,Azərsun Arena,Baku,Premyer Liqa,Azerbaijan,Regular Season - 2,Qarabag,Turan,R. Allahverdiyev,90
+1083095,2023-08-20T14:00:00+00:00,UTC,Azərsun Arena,Baku,Premyer Liqa,Azerbaijan,Regular Season - 3,Qarabag,Araz,N. İsmayıllı,90
+1083104,2023-08-27T16:45:00+00:00,UTC,Azərsun Arena,Baku,Premyer Liqa,Azerbaijan,Regular Season - 4,Qarabag,Kapaz,Ə. Əliyev,90
+1083106,2023-09-03T15:30:00+00:00,UTC,ASCO Arena,Baku,Premyer Liqa,Azerbaijan,Regular Season - 5,Səbail,Qarabag,K. Rəhimov,90
+1093844,2023-09-17T15:30:00+00:00,UTC,Tofiq Bəhramov adına Respublika stadionu,Baku,Premyer Liqa,Azerbaijan,Regular Season - 6,Qarabag,Sabah FA,T. Qurbanov,90
+1093848,2023-09-25T15:00:00+00:00,UTC,Şəhər stadionu,Qəbələ,Premyer Liqa,Azerbaijan,Regular Season - 7,Qabala,Qarabag,E. Məsiyev,90
+1093853,2023-09-29T16:00:00+00:00,UTC,Azərsun Arena,Baku,Premyer Liqa,Azerbaijan,Regular Season - 8,Qarabag,Sumqayıt,Ə. Ağayev,90
+1093859,2023-10-08T15:30:00+00:00,UTC,Neftçi Arena,Baku,Premyer Liqa,Azerbaijan,Regular Season - 9,Neftchi Baku,Qarabag,R. Ahmadov,90
+1083094,2023-10-20T14:30:00+00:00,UTC,Şəhər stadionu,Tovuz,Premyer Liqa,Azerbaijan,Regular Season - 10,Turan,Qarabag,F. Haciyev,90
+1093866,2023-10-30T15:00:00+00:00,UTC,Tofiq Bəhramov adına Respublika stadionu,Baku,Premyer Liqa,Azerbaijan,Regular Season - 11,Araz,Qarabag,Ə. Ağayev,90
+1093915,2023-11-04T12:00:00+00:00,UTC,Tofiq Bəhramov adına Respublika stadionu,Baku,Premyer Liqa,Azerbaijan,Regular Season - 12,Qarabag,Kapaz,E. Əliyev,90
+1093877,2023-11-12T15:00:00+00:00,UTC,Tofiq Bəhramov adına Respublika stadionu,Baku,Premyer Liqa,Azerbaijan,Regular Season - 13,Qarabag,Səbail,R. Həmzəzadə,90
+1093884,2023-11-24T16:00:00+00:00,UTC,Bank Respublika Arena,Masazir,Premyer Liqa,Azerbaijan,Regular Season - 14,Sabah FA,Qarabag,İ. Məmmədov,90
+1093888,2023-12-04T15:30:00+00:00,UTC,Tofiq Bəhramov adına Respublika stadionu,Baku,Premyer Liqa,Azerbaijan,Regular Season - 15,Qarabag,Qabala,T. Qurbanov,90
+1093893,2023-12-08T15:30:00+00:00,UTC,Kapital Bank Arena,Sumqayıt,Premyer Liqa,Azerbaijan,Regular Season - 16,Sumqayıt,Qarabag,F. Haciyev,90
+1093899,2023-12-18T16:00:00+00:00,UTC,Tofiq Bəhramov adına Respublika stadionu,Baku,Premyer Liqa,Azerbaijan,Regular Season - 17,Qarabag,Neftchi Baku,R. Həmzəzadə,90
+1093902,2023-12-24T14:30:00+00:00,UTC,Zirə qəsəbə stadionu,Zirya,Premyer Liqa,Azerbaijan,Regular Season - 18,Zira,Qarabag,C. Cəlilov,90
+1093906,2024-01-23T15:00:00+00:00,UTC,Tofiq Bəhramov adına Respublika stadionu,Baku,Premyer Liqa,Azerbaijan,Regular Season - 19,Qarabag,Araz,R. Allahverdiyev,90
+1093875,2024-01-27T11:00:00+00:00,UTC,Şəhər stadionu,Qəbələ,Premyer Liqa,Azerbaijan,Regular Season - 20,Kapaz,Qarabag,N. İsmayıllı,90
+1093917,2024-02-03T11:00:00+00:00,UTC,ASCO Arena,Baku,Premyer Liqa,Azerbaijan,Regular Season - 21,Səbail,Qarabag,C. Cəlilov,90
+1093924,2024-02-11T15:00:00+00:00,UTC,Tofiq Bəhramov adına Respublika stadionu,Baku,Premyer Liqa,Azerbaijan,Regular Season - 22,Qarabag,Sabah FA,R. Həmzəzadə,90
+1093933,2024-02-25T15:00:00+00:00,UTC,Tofiq Bəhramov adına Respublika stadionu,Baku,Premyer Liqa,Azerbaijan,Regular Season - 24,Qarabag,Sumqayıt,N. İsmayıllı,90
+1093928,2024-02-28T15:00:00+00:00,UTC,Şəhər stadionu,Qəbələ,Premyer Liqa,Azerbaijan,Regular Season - 23,Qabala,Qarabag,T. Qurbanov,90
+1093939,2024-03-03T15:00:00+00:00,UTC,Neftçi Arena,Baku,Premyer Liqa,Azerbaijan,Regular Season - 25,Neftchi Baku,Qarabag,E. Məsiyev,90
+1093942,2024-03-10T14:00:00+00:00,UTC,Tofiq Bəhramov adına Respublika stadionu,Baku,Premyer Liqa,Azerbaijan,Regular Season - 26,Qarabag,Zira,Ə. Ağayev,90
+1093950,2024-03-17T12:00:00+00:00,UTC,Şəhər stadionu,Tovuz,Premyer Liqa,Azerbaijan,Regular Season - 27,Turan,Qarabag,T. Qurbanov,90
+1093955,2024-03-29T15:00:00+00:00,UTC,Tofiq Bəhramov adına Respublika stadionu,Baku,Premyer Liqa,Azerbaijan,Regular Season - 28,Kapaz,Qarabag,R. Cabarov,90
+1093957,2024-04-06T16:00:00+00:00,UTC,Tofiq Bəhramov adına Respublika stadionu,Baku,Premyer Liqa,Azerbaijan,Regular Season - 29,Qarabag,Səbail,N. İsmayıllı,90
+1093964,2024-04-14T15:00:00+00:00,UTC,Bank Respublika Arena,Masazir,Premyer Liqa,Azerbaijan,Regular Season - 30,Sabah FA,Qarabag,R. Həmzəzadə,90
+1093968,2024-04-20T12:30:00+00:00,UTC,Tofiq Bəhramov adına Respublika stadionu,Baku,Premyer Liqa,Azerbaijan,Regular Season - 31,Qarabag,Qabala,F. Haciyev,90
+1093973,2024-04-28T16:00:00+00:00,UTC,Mehdi Hüseynzadə adına Sumqayıt şəhər stadionu,Sumqayıt,Premyer Liqa,Azerbaijan,Regular Season - 32,Sumqayıt,Qarabag,R. Cabarov,90
+1093979,2024-05-04T15:30:00+00:00,UTC,Azərsun Arena,Baku,Premyer Liqa,Azerbaijan,Regular Season - 33,Qarabag,Neftchi Baku,İ. Məmmədov,90
+1093982,2024-05-11T15:30:00+00:00,UTC,Zirə qəsəbə stadionu,Zirya,Premyer Liqa,Azerbaijan,Regular Season - 34,Zira,Qarabag,Ə. Ağayev,90
+1093990,2024-05-17T16:30:00+00:00,UTC,Tofiq Bəhramov adına Respublika stadionu,Baku,Premyer Liqa,Azerbaijan,Regular Season - 35,Qarabag,Turan,C. Cəlilov,90
+1093991,2024-05-26T15:30:00+00:00,UTC,Azərsun Arena,Baku,Premyer Liqa,Azerbaijan,Regular Season - 36,Araz,Qarabag,Ə. Əhmədov,90
+1124962,2023-09-16T10:45:00+00:00,UTC,Szatmári utca,Nagyecsed,Magyar Kupa,Hungary,3rd Round,Nagyecsed RSE,Ferencvarosi TC,,90
+1180035,2024-04-03T18:00:00+00:00,UTC,Diósgyőri Stadion,Miskolc,Magyar Kupa,Hungary,Quarter-finals,Diosgyori VTK,Ferencvarosi TC,S. Ando-Szabo,90
+1193340,2024-04-24T18:00:00+00:00,UTC,Balmazújvárosi Városi Sportpálya,Balmazújváros,Magyar Kupa,Hungary,Semi-finals,Nyiregyhaza,Ferencvarosi TC,G. Bogár,90
+1125825,2023-09-26T14:00:00+00:00,UTC,Stadion Avanhard,Rivne,Cup,Ukraine,Round of 16,Veres Rivne,Shakhtar Donetsk,I. Paskhal,90
+1138694,2023-10-30T13:00:00+00:00,UTC,Stadion Livyi Bereh,Kiev,Cup,Ukraine,Quarter-finals,Viktoriya Mykolaivka,Shakhtar Donetsk,O. Derevinskyi,90
+1169507,2024-04-03T15:00:00+00:00,UTC,Arena Lviv,Lviv,Cup,Ukraine,Semi-finals,Shakhtar Donetsk,Chornomorets,V. Kopiievskyi,90
+1193347,2024-05-15T16:00:00+00:00,UTC,Stadion Avanhard,Rivne,Cup,Ukraine,Final,Vorskla Poltava,Shakhtar Donetsk,V. Romanov,90
+1125839,2023-09-27T13:30:00+00:00,UTC,SRC Ponikve Stadion,Zagreb,Cup,Croatia,Round of 32,Ponikve,Dinamo Zagreb,F. Jović,90
+1136346,2023-11-01T13:00:00+00:00,UTC,Igralište NK Oriolik,Oriovac,Cup,Croatia,Round of 16,Oriolik Oriovac,Dinamo Zagreb,Z. Lovrić,90
+1147332,2024-02-28T17:00:00+00:00,UTC,Stadion Maksimir,Zagreb,Cup,Croatia,Quarter-finals,Dinamo Zagreb,HNK Gorica,Z. Lovrić,90
+1181858,2024-04-03T17:00:00+00:00,UTC,Stadion Poljud,Split,Cup,Croatia,Semi-finals,HNK Hajduk Split,Dinamo Zagreb,F. Maresca,90
+1193079,2024-05-15T17:00:00+00:00,UTC,Stadion Maksimir,Zagreb,Cup,Croatia,Final,Dinamo Zagreb,HNK Rijeka,D. Bel,90
+1193080,2024-05-22T16:00:00+00:00,UTC,Stadion HNK Rijeka,Rijeka,Cup,Croatia,Final,HNK Rijeka,Dinamo Zagreb,J. Titlić,90
+1094432,2023-08-05T11:30:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 1,Celtic,Ross County,N. Walsh,90
+1094436,2023-08-05T16:15:00+00:00,UTC,The BBSP Stadium Rugby Park,Kilmarnock,Premiership,Scotland,1st Phase - 1,Kilmarnock,Rangers,W. Collum,90
+1094440,2023-08-12T14:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 2,Rangers,Livingston,D. Robertson,90
+1094443,2023-08-13T11:00:00+00:00,UTC,Pittodrie Stadium,Aberdeen,Premiership,Scotland,1st Phase - 2,Aberdeen,Celtic,K. Clancy,90
+1094444,2023-08-26T11:30:00+00:00,UTC,Global Energy Stadium,Dingwall,Premiership,Scotland,1st Phase - 3,Ross County,Rangers,D. Munro,90
+1094445,2023-08-26T14:00:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 3,Celtic,ST Johnstone,M. McDermid,90
+1094455,2023-09-03T11:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 4,Rangers,Celtic,D. Robertson,90
+1094456,2023-09-16T11:30:00+00:00,UTC,McDiarmid Park,Perth,Premiership,Scotland,1st Phase - 5,ST Johnstone,Rangers,N. Walsh,90
+1094457,2023-09-16T14:00:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 5,Celtic,Dundee,G. Irvine,90
+1094462,2023-09-23T11:30:00+00:00,UTC,Tony Macaroni Arena,Livingston,Premiership,Scotland,1st Phase - 6,Livingston,Celtic,J. Beaton,90
+1094466,2023-09-24T14:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 6,Rangers,Motherwell,A. Muir,90
+1094470,2023-09-30T11:30:00+00:00,UTC,Fir Park,Motherwell,Premiership,Scotland,1st Phase - 7,Motherwell,Celtic,W. Collum,90
+1094471,2023-09-30T14:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 7,Rangers,Aberdeen,S. McLean,90
+1094475,2023-10-07T14:00:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 8,Celtic,Kilmarnock,M. McDermid,90
+1094479,2023-10-08T11:00:00+00:00,UTC,The SMISA Stadium,Paisley,Premiership,Scotland,1st Phase - 8,ST Mirren,Rangers,N. Walsh,90
+1094483,2023-10-21T14:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 9,Rangers,Hibernian,D. Robertson,90
+1094481,2023-10-22T13:15:00+00:00,UTC,Tynecastle Park,Edinburgh,Premiership,Scotland,1st Phase - 9,Heart Of Midlothian,Celtic,N. Walsh,90
+1094486,2023-10-28T14:00:00+00:00,UTC,Easter Road Stadium,Edinburgh,Premiership,Scotland,1st Phase - 10,Hibernian,Celtic,A. Muir,90
+1094490,2023-10-29T15:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 10,Rangers,Heart Of Midlothian,J. Beaton,90
+1094492,2023-11-01T19:45:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 11,Celtic,ST Mirren,J. Beaton,90
+1094493,2023-11-01T20:30:00+00:00,UTC,The Scot Foam Stadium at Dens Park,Dundee,Premiership,Scotland,1st Phase - 11,Dundee,Rangers,K. Clancy,90
+1094502,2023-11-04T12:30:00+00:00,UTC,Global Energy Stadium,Dingwall,Premiership,Scotland,1st Phase - 12,Ross County,Celtic,D. Munro,90
+1094507,2023-11-12T12:00:00+00:00,UTC,Tony Macaroni Arena,Livingston,Premiership,Scotland,1st Phase - 13,Livingston,Rangers,S. McLean,90
+1094504,2023-11-12T14:30:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 13,Celtic,Aberdeen,W. Collum,90
+1094511,2023-11-25T15:00:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 14,Celtic,Motherwell,S. McLean,90
+1094510,2023-11-26T12:00:00+00:00,UTC,Pittodrie Stadium,Aberdeen,Premiership,Scotland,1st Phase - 14,Aberdeen,Rangers,N. Walsh,90
+1094521,2023-12-03T12:00:00+00:00,UTC,McDiarmid Park,Perth,Premiership,Scotland,1st Phase - 15,ST Johnstone,Celtic,D. Robertson,90
+1094520,2023-12-03T15:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 15,Rangers,ST Mirren,M. McDermid,90
+1094523,2023-12-06T19:45:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 16,Celtic,Hibernian,J. Beaton,90
+1094525,2023-12-06T20:00:00+00:00,UTC,Tynecastle Park,Edinburgh,Premiership,Scotland,1st Phase - 16,Heart Of Midlothian,Rangers,W. Collum,90
+1094532,2023-12-09T15:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 17,Rangers,Dundee,K. Clancy,90
+1094529,2023-12-10T12:00:00+00:00,UTC,The BBSP Stadium Rugby Park,Kilmarnock,Premiership,Scotland,1st Phase - 17,Kilmarnock,Celtic,D. Munro,90
+1094534,2023-12-16T15:00:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 18,Celtic,Heart Of Midlothian,K. Clancy,90
+1094501,2023-12-20T19:45:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 12,Rangers,ST Johnstone,A. Muir,90
+1094540,2023-12-23T15:00:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 19,Celtic,Livingston,M. McDermid,90
+1094544,2023-12-24T12:00:00+00:00,UTC,Fir Park,Motherwell,Premiership,Scotland,1st Phase - 19,Motherwell,Rangers,D. Dickinson,90
+1094547,2023-12-26T15:00:00+00:00,UTC,The Scot Foam Stadium at Dens Park,Dundee,Premiership,Scotland,1st Phase - 20,Dundee,Celtic,D. Robertson,90
+1094552,2023-12-30T12:30:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 21,Celtic,Rangers,N. Walsh,90
+1094561,2024-01-02T15:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 22,Rangers,Kilmarnock,J. Beaton,90
+1094563,2024-01-02T17:00:00+00:00,UTC,The SMISA Stadium,Paisley,Premiership,Scotland,1st Phase - 22,ST Mirren,Celtic,D. Munro,90
+1094535,2024-01-24T19:45:00+00:00,UTC,Easter Road Stadium,Edinburgh,Premiership,Scotland,1st Phase - 18,Hibernian,Rangers,S. McLean,90
+1094569,2024-01-27T12:30:00+00:00,UTC,The SMISA Stadium,Paisley,Premiership,Scotland,1st Phase - 23,ST Mirren,Rangers,D. Dickinson,90
+1094564,2024-01-27T15:00:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 23,Celtic,Ross County,E. Anderson,90
+1094570,2024-02-03T12:30:00+00:00,UTC,Pittodrie Stadium,Aberdeen,Premiership,Scotland,1st Phase - 24,Aberdeen,Celtic,S. McLean,90
+1094574,2024-02-03T15:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 24,Rangers,Livingston,J. Beaton,90
+1094579,2024-02-06T20:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 25,Rangers,Aberdeen,D. Robertson,90
+1094576,2024-02-07T20:00:00+00:00,UTC,Easter Road Stadium,Edinburgh,Premiership,Scotland,1st Phase - 25,Hibernian,Celtic,N. Walsh,90
+1094549,2024-02-14T19:45:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 20,Rangers,Ross County,A. Muir,90
+1094583,2024-02-17T15:00:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 26,Celtic,Kilmarnock,J. Beaton,90
+1094587,2024-02-18T12:00:00+00:00,UTC,McDiarmid Park,Perth,Premiership,Scotland,1st Phase - 26,ST Johnstone,Rangers,M. McDermid,90
+1094591,2024-02-24T15:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 27,Rangers,Heart Of Midlothian,N. Walsh,90
+1094590,2024-02-25T12:00:00+00:00,UTC,Fir Park,Motherwell,Premiership,Scotland,1st Phase - 27,Motherwell,Celtic,W. Collum,90
+1094595,2024-02-28T19:45:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 28,Celtic,Dundee,M. McDermid,90
+1094597,2024-02-28T19:45:00+00:00,UTC,The BBSP Stadium Rugby Park,Kilmarnock,Premiership,Scotland,1st Phase - 28,Kilmarnock,Rangers,D. Dickinson,90
+1094603,2024-03-02T15:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 29,Rangers,Motherwell,A. Muir,90
+1094601,2024-03-03T12:00:00+00:00,UTC,Tynecastle Park,Edinburgh,Premiership,Scotland,1st Phase - 29,Heart Of Midlothian,Celtic,D. Robertson,90
+1094606,2024-03-16T15:00:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 30,Celtic,ST Johnstone,E. Anderson,90
+1094616,2024-03-30T15:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 31,Rangers,Hibernian,D. Dickinson,90
+1094614,2024-03-31T11:00:00+00:00,UTC,Tony Macaroni Arena,Livingston,Premiership,Scotland,1st Phase - 31,Livingston,Celtic,D. Robertson,90
+1094622,2024-04-07T11:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,1st Phase - 32,Rangers,Celtic,J. Beaton,90
+1094625,2024-04-13T14:00:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,1st Phase - 33,Celtic,ST Mirren,S. McLean,90
+1094628,2024-04-14T11:00:00+00:00,UTC,Global Energy Stadium,Dingwall,Premiership,Scotland,1st Phase - 33,Ross County,Rangers,M. McDermid,90
+1094607,2024-04-17T19:00:00+00:00,UTC,The Scot Foam Stadium at Dens Park,Dundee,Premiership,Scotland,1st Phase - 30,Dundee,Rangers,D. Robertson,90
+1196469,2024-04-28T11:30:00+00:00,UTC,The SMISA Stadium,Paisley,Premiership,Scotland,Championship Round - 1,ST Mirren,Rangers,N. Walsh,90
+1196470,2024-04-28T14:00:00+00:00,UTC,The Scot Foam Stadium at Dens Park,Dundee,Premiership,Scotland,Championship Round - 1,Dundee,Celtic,J. Beaton,90
+1196471,2024-05-04T14:00:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,Championship Round - 2,Celtic,Heart Of Midlothian,K. Clancy,90
+1196476,2024-05-05T12:00:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,Championship Round - 2,Rangers,Kilmarnock,D. Dickinson,90
+1196477,2024-05-11T11:30:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,Championship Round - 3,Celtic,Rangers,W. Collum,90
+1196483,2024-05-14T18:30:00+00:00,UTC,Ibrox Stadium,Glasgow,Premiership,Scotland,Championship Round - 4,Rangers,Dundee,M. McDermid,90
+1196484,2024-05-15T18:30:00+00:00,UTC,The BBSP Stadium Rugby Park,Kilmarnock,Premiership,Scotland,Championship Round - 4,Kilmarnock,Celtic,D. Robertson,90
+1196489,2024-05-18T11:30:00+00:00,UTC,Celtic Park,Glasgow,Premiership,Scotland,Championship Round - 5,Celtic,ST Mirren,M. McDermid,90
+1196491,2024-05-18T11:30:00+00:00,UTC,Tynecastle Park,Edinburgh,Premiership,Scotland,Championship Round - 5,Heart Of Midlothian,Rangers,D. Robertson,90
+1095880,2024-02-10T13:00:00+00:00,UTC,Stadion Ivailo,Veliko Târnovo,Super Cup,Bulgaria,Final,Ludogorets,CSKA 1948,G. Kabakov,90
+1127103,2023-10-03T18:45:00+00:00,UTC,Inver Park,Larne,League Cup,Northern-Ireland,1st Round,Larne,Knockbreda,,90
+1140932,2023-12-05T20:00:00+00:00,UTC,Stadio Olimpico,Roma,Coppa Italia,Italy,Round of 16,Lazio,Genoa,J. Sacchi,90
+1141349,2023-12-19T20:00:00+00:00,UTC,Stadio Diego Armando Maradona,Napoli,Coppa Italia,Italy,Round of 16,Napoli,Frosinone,R. Abisso,90
+1140937,2024-01-02T20:00:00+00:00,UTC,Stadio Giuseppe Meazza,Milano,Coppa Italia,Italy,Round of 16,AC Milan,Cagliari,A. Prontera,90
+1155569,2024-01-10T17:00:00+00:00,UTC,Stadio Olimpico,Roma,Coppa Italia,Italy,Quarter-finals,Lazio,AS Roma,D. Orsato,90
+1155570,2024-01-10T20:00:00+00:00,UTC,Stadio Giuseppe Meazza,Milano,Coppa Italia,Italy,Quarter-finals,AC Milan,Atalanta,M. Di Bello,90
+1159312,2024-04-02T19:00:00+00:00,UTC,Allianz Stadium,Torino,Coppa Italia,Italy,Semi-finals,Juventus,Lazio,D. Massa,90
+1159313,2024-04-23T19:00:00+00:00,UTC,Stadio Olimpico,Roma,Coppa Italia,Italy,Semi-finals,Lazio,Juventus,D. Orsato,90
+1099824,2023-07-29T19:00:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 1,TSC Backa Topola,FK Partizan,M. Mitić,90
+1099827,2023-07-30T18:00:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 1,FK Crvena Zvezda,Vojvodina,A. Živković,90
+1099830,2023-08-03T15:55:00+00:00,UTC,Gradski Stadion Čair,Niš,Super Liga,Serbia,Regular Season - 2,Radnicki NIS,TSC Backa Topola,L. Lukić,90
+1099836,2023-08-06T14:55:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 2,FK Crvena Zvezda,Napredak,N. Đorđević,90
+1099838,2023-08-11T16:55:00+00:00,UTC,Mladost Stadium Lučani,Lučani,Super Liga,Serbia,Regular Season - 3,Mladost Lucani,FK Crvena Zvezda,D. Trifković,90
+1099843,2023-08-12T16:55:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 3,TSC Backa Topola,Radnicki 1923,I. Stamenković,90
+1099851,2023-08-19T18:30:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 4,FK Crvena Zvezda,FK Spartak Zdrepceva KRV,P. Janjuš,90
+1099847,2023-08-20T17:30:00+00:00,UTC,Stadion Ivanjica,Ivanjica,Super Liga,Serbia,Regular Season - 4,Javor,TSC Backa Topola,M. Milanović,90
+1099858,2023-08-26T16:00:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 5,TSC Backa Topola,IMT Novi Beograd,M. Ilić,90
+1099855,2023-08-26T17:00:00+00:00,UTC,Stadion Event Place,Beograd,Super Liga,Serbia,Regular Season - 5,FK Vozdovac,FK Crvena Zvezda,S. Ostraćanin,90
+1099864,2023-09-01T17:00:00+00:00,UTC,EFBET Stadion,Surdulica,Super Liga,Serbia,Regular Season - 6,Radnik Surdulica,TSC Backa Topola,P. Tomić,90
+1099866,2023-09-02T18:00:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 6,FK Crvena Zvezda,Novi Pazar,N. Radaković,90
+1099872,2023-09-16T16:05:00+00:00,UTC,Stadion na Banovom brdu,Beograd,Super Liga,Serbia,Regular Season - 7,Cukaricki,FK Crvena Zvezda,M. Milanović,90
+1099873,2023-09-16T17:00:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 7,TSC Backa Topola,Železničar Pančevo,M. Ivković,90
+1099896,2023-09-30T16:05:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 10,FK Crvena Zvezda,Radnicki NIS,P. Ilić,90
+1099898,2023-09-30T17:00:00+00:00,UTC,Mladost Stadium Lučani,Lučani,Super Liga,Serbia,Regular Season - 10,Mladost Lucani,TSC Backa Topola,I. Stamenković,90
+1099906,2023-10-08T13:00:00+00:00,UTC,Stadion Čika Dača,Kragujevac,Super Liga,Serbia,Regular Season - 11,Radnicki 1923,FK Crvena Zvezda,N. Simović,90
+1099903,2023-10-08T15:30:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 11,TSC Backa Topola,FK Spartak Zdrepceva KRV,P. Janjuš,90
+1099911,2023-10-21T16:30:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 12,FK Crvena Zvezda,Javor,N. Minaković,90
+1099915,2023-10-21T17:00:00+00:00,UTC,Stadion Event Place,Beograd,Super Liga,Serbia,Regular Season - 12,FK Vozdovac,TSC Backa Topola,M. Milanović,90
+1099923,2023-10-28T16:30:00+00:00,UTC,Stadion Event Place,Beograd,Super Liga,Serbia,Regular Season - 13,IMT Novi Beograd,FK Crvena Zvezda,J. Šegrt,90
+1099918,2023-10-29T18:00:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 13,TSC Backa Topola,Novi Pazar,A. Živković,90
+1099881,2023-11-01T18:00:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 8,FK Crvena Zvezda,TSC Backa Topola,M. Mitić,90
+1099926,2023-11-04T17:00:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 14,FK Crvena Zvezda,Radnik Surdulica,D. Nikolić,90
+1099932,2023-11-05T14:30:00+00:00,UTC,Stadion na Banovom brdu,Beograd,Super Liga,Serbia,Regular Season - 14,Cukaricki,TSC Backa Topola,P. Ilić,90
+1099940,2023-11-11T17:00:00+00:00,UTC,Sportsko-Rekreativni Centar Mladost,Pančevo,Super Liga,Serbia,Regular Season - 15,Železničar Pančevo,FK Crvena Zvezda,M. Ivković,90
+1099933,2023-11-12T18:30:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 15,TSC Backa Topola,Vojvodina,M. Stefanović,90
+1099941,2023-11-25T15:00:00+00:00,UTC,Stadion Karađorđe,Novi Sad,Super Liga,Serbia,Regular Season - 16,Vojvodina,FK Crvena Zvezda,M. Ilić,90
+1099948,2023-11-25T17:30:00+00:00,UTC,Stadion Partizana,Beograd,Super Liga,Serbia,Regular Season - 16,FK Partizan,TSC Backa Topola,P. Ilić,90
+1099956,2023-12-03T14:00:00+00:00,UTC,Stadion Mladost,Kruševac,Super Liga,Serbia,Regular Season - 17,Napredak,FK Crvena Zvezda,J. Šegrt,90
+1099950,2023-12-03T16:00:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 17,TSC Backa Topola,Radnicki NIS,M. Marković,90
+1099963,2023-12-09T12:00:00+00:00,UTC,Stadion Čika Dača,Kragujevac,Super Liga,Serbia,Regular Season - 18,Radnicki 1923,TSC Backa Topola,S. Jovanović,90
+1099958,2023-12-09T15:00:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 18,FK Crvena Zvezda,Mladost Lucani,L. Lukić,90
+1099971,2023-12-16T15:00:00+00:00,UTC,Gradski Stadion,Subotica,Super Liga,Serbia,Regular Season - 19,FK Spartak Zdrepceva KRV,FK Crvena Zvezda,P. Ilić,90
+1099967,2023-12-18T15:00:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 19,TSC Backa Topola,Javor,M. Ilić,90
+1099889,2023-12-20T17:00:00+00:00,UTC,Stadion Partizana,Beograd,Super Liga,Serbia,Regular Season - 9,FK Partizan,FK Crvena Zvezda,N. Minaković,90
+1099888,2023-12-22T16:00:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 9,TSC Backa Topola,Napredak,M. Stefanović,90
+1099975,2024-02-10T15:30:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 20,FK Crvena Zvezda,FK Vozdovac,J. Šegrt,90
+1099978,2024-02-11T14:00:00+00:00,UTC,Stadion Event Place,Beograd,Super Liga,Serbia,Regular Season - 20,IMT Novi Beograd,TSC Backa Topola,M. Milanović,90
+1099986,2024-02-17T13:00:00+00:00,UTC,Caizcoin Arena,Novi Pazar,Super Liga,Serbia,Regular Season - 21,Novi Pazar,FK Crvena Zvezda,D. Nikolić,90
+1099984,2024-02-18T16:00:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 21,TSC Backa Topola,Radnik Surdulica,M. Ivković,90
+1099992,2024-02-24T15:00:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 22,FK Crvena Zvezda,Cukaricki,M. Ivković,90
+1099993,2024-02-24T17:30:00+00:00,UTC,Sportsko-Rekreativni Centar Mladost,Pančevo,Super Liga,Serbia,Regular Season - 22,Železničar Pančevo,TSC Backa Topola,M. Stefanović,90
+1100001,2024-03-02T15:00:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 23,TSC Backa Topola,FK Crvena Zvezda,M. Ilić,90
+1100008,2024-03-07T15:00:00+00:00,UTC,Stadion Mladost,Kruševac,Super Liga,Serbia,Regular Season - 24,Napredak,TSC Backa Topola,S. Jovanović,90
+1100009,2024-03-09T16:00:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 24,FK Crvena Zvezda,FK Partizan,P. Ilić,90
+1100018,2024-03-12T13:00:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 25,TSC Backa Topola,Mladost Lucani,A. Stojanović,90
+1100016,2024-03-13T18:00:00+00:00,UTC,Gradski Stadion Čair,Niš,Super Liga,Serbia,Regular Season - 25,Radnicki NIS,FK Crvena Zvezda,M. Ivković,90
+1100023,2024-03-16T17:00:00+00:00,UTC,Gradski Stadion,Subotica,Super Liga,Serbia,Regular Season - 26,FK Spartak Zdrepceva KRV,TSC Backa Topola,D. Nikolić,90
+1100026,2024-03-17T15:00:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 26,FK Crvena Zvezda,Radnicki 1923,J. Šegrt,90
+1100035,2024-03-29T17:00:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 27,TSC Backa Topola,FK Vozdovac,P. Ilić,90
+1100031,2024-03-30T15:00:00+00:00,UTC,Stadion Ivanjica,Ivanjica,Super Liga,Serbia,Regular Season - 27,Javor,FK Crvena Zvezda,D. Nikolić,90
+1100038,2024-04-02T14:30:00+00:00,UTC,Caizcoin Arena,Novi Pazar,Super Liga,Serbia,Regular Season - 28,Novi Pazar,TSC Backa Topola,M. Mitić,90
+1100043,2024-04-03T17:00:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 28,FK Crvena Zvezda,IMT Novi Beograd,M. Milanović,90
+1100052,2024-04-06T18:00:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Regular Season - 29,TSC Backa Topola,Cukaricki,S. Jovanović,90
+1100046,2024-04-07T14:00:00+00:00,UTC,EFBET Stadion,Surdulica,Super Liga,Serbia,Regular Season - 29,Radnik Surdulica,FK Crvena Zvezda,S. Ostraćanin,90
+1100053,2024-04-14T14:30:00+00:00,UTC,Stadion Karađorđe,Novi Sad,Super Liga,Serbia,Regular Season - 30,Vojvodina,TSC Backa Topola,M. Stefanović,90
+1100060,2024-04-14T15:00:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Regular Season - 30,FK Crvena Zvezda,Železničar Pančevo,D. Nikolić,90
+1196341,2024-04-20T13:00:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Championship Round - 1,TSC Backa Topola,Vojvodina,M. Ivković,90
+1196342,2024-04-20T16:00:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Championship Round - 1,FK Crvena Zvezda,FK Partizan,P. Ilić,90
+1196344,2024-04-28T15:30:00+00:00,UTC,Stadion Karađorđe,Novi Sad,Super Liga,Serbia,Championship Round - 2,Vojvodina,FK Crvena Zvezda,N. Simović,90
+1196345,2024-04-28T17:30:00+00:00,UTC,Stadion Partizana,Beograd,Super Liga,Serbia,Championship Round - 2,FK Partizan,TSC Backa Topola,N. Minaković,90
+1196348,2024-05-02T17:00:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Championship Round - 3,FK Crvena Zvezda,TSC Backa Topola,M. Ilić,90
+1196353,2024-05-08T14:00:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Championship Round - 4,TSC Backa Topola,Radnicki 1923,P. Tomić,90
+1196352,2024-05-08T16:30:00+00:00,UTC,Mladost Stadium Lučani,Lučani,Super Liga,Serbia,Championship Round - 4,Mladost Lucani,FK Crvena Zvezda,S. Jeknić,90
+1196359,2024-05-12T12:30:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Championship Round - 5,TSC Backa Topola,Cukaricki,D. Trifković,90
+1196356,2024-05-12T16:30:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Championship Round - 5,FK Crvena Zvezda,Radnicki 1923,N. Minaković,90
+1196360,2024-05-16T17:00:00+00:00,UTC,Stadion Mladost,Kruševac,Super Liga,Serbia,Championship Round - 6,Napredak,FK Crvena Zvezda,N. Đorđević,90
+1196363,2024-05-17T16:30:00+00:00,UTC,Mladost Stadium Lučani,Lučani,Super Liga,Serbia,Championship Round - 6,Mladost Lucani,TSC Backa Topola,A. Stojanović,90
+1196366,2024-05-23T16:30:00+00:00,UTC,TSC Arena,Bačka Topola,Super Liga,Serbia,Championship Round - 7,TSC Backa Topola,Napredak,I. Stamenković,90
+1196364,2024-05-25T17:00:00+00:00,UTC,Stadion Rajko Mitić,Beograd,Super Liga,Serbia,Championship Round - 7,FK Crvena Zvezda,Cukaricki,J. Cvetković,90
+1100087,2023-08-06T15:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 1,Struga,KF Gostivari,S. Trpchevski,90
+1100098,2023-08-21T15:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 3,Struga,Akademija Pandev,K. Gjorgiev,90
+1100120,2023-09-04T14:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 6,Struga,Tikveš,J. Barton,90
+1100122,2023-09-17T13:00:00+00:00,UTC,Gradski Stadion,Štip,First League,Macedonia,Regular Season - 7,Bregalnica Štip,Struga,I. Stojchevski,90
+1100131,2023-09-24T13:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 8,Struga,FK Rabotnicki,M. Stojanovski,90
+1100108,2023-09-27T13:00:00+00:00,UTC,Stadion Biljanini Izvori,Ohrid,First League,Macedonia,Regular Season - 4,Voska Sport,Struga,K. Gjorgiev,90
+1100135,2023-10-01T12:00:00+00:00,UTC,Stadion Čair,Skopje,First League,Macedonia,Regular Season - 9,Shkupi 1927,Struga,A. Grujoski,90
+1100095,2023-10-04T12:00:00+00:00,UTC,Ecolog Arena,Tetovo,First League,Macedonia,Regular Season - 2,Shkendija,Struga,K. Gjorgiev,90
+1100142,2023-10-08T12:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 10,Struga,Sileks,D. Pileshkov,90
+1100148,2023-10-22T12:00:00+00:00,UTC,Stadion Gorče Petrov,Skopje,First League,Macedonia,Regular Season - 11,Makedonija GjP,Struga,S. Trpchevski,90
+1100153,2023-10-29T12:00:00+00:00,UTC,Stadiumi i qytetit,Gostivar,First League,Macedonia,Regular Season - 12,KF Gostivari,Struga,I. Stojchevski,90
+1100109,2023-11-01T12:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 5,Struga,Vardar Skopje,D. Pileshkov,90
+1100161,2023-11-05T12:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 13,Struga,Shkendija,K. Gjorgiev,90
+1100164,2023-11-11T12:00:00+00:00,UTC,Sportski Centar Pandev,Strumica,First League,Macedonia,Regular Season - 14,Akademija Pandev,Struga,A. Grujoski,90
+1100175,2023-11-29T12:00:00+00:00,UTC,Trening centar Petar Miloševski,Skopje,First League,Macedonia,Regular Season - 16,Vardar Skopje,Struga,K. Gjorgiev,90
+1100186,2023-12-03T12:00:00+00:00,UTC,Gradski Stadion,Kavadarci,First League,Macedonia,Regular Season - 17,Tikveš,Struga,I. Stojchevski,90
+1100174,2023-12-06T12:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 15,Struga,Voska Sport,I. Stojchevski,90
+1100188,2023-12-10T12:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 18,Struga,Bregalnica Štip,A. Stavrev,90
+1100197,2024-02-18T13:00:00+00:00,UTC,Stadion Boris Trajkovski,Skopje,First League,Macedonia,Regular Season - 19,FK Rabotnicki,Struga,D. Pileshkov,90
+1100201,2024-02-24T13:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 20,Struga,Shkupi 1927,D. Pileshkov,90
+1100208,2024-03-03T13:00:00+00:00,UTC,Gradski stadion Kratovo,Kratovo,First League,Macedonia,Regular Season - 21,Sileks,Struga,A. Grujoski,90
+1100214,2024-03-06T13:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 22,Struga,Makedonija GjP,N. Tefiku,90
+1182934,2024-03-10T13:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 23,Struga,Akademija Pandev,M. Mladenovski,90
+1182945,2024-03-17T14:00:00+00:00,UTC,Toše Proeski Arena,Skopje,First League,Macedonia,Regular Season - 24,FK Rabotnicki,Struga,A. Grujoski,90
+1182947,2024-03-31T13:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 25,Struga,Voska Sport,S. Trpchevski,90
+1182956,2024-04-07T13:00:00+00:00,UTC,Stadion Boris Trajkovski,Skopje,First League,Macedonia,Regular Season - 26,Vardar Skopje,Struga,S. Trpchevski,90
+1182960,2024-04-14T13:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 27,Struga,Bregalnica Štip,M. Mladenovski,90
+1182967,2024-04-21T14:00:00+00:00,UTC,Stadion Gorče Petrov,Skopje,First League,Macedonia,Regular Season - 28,Makedonija GjP,Struga,K. Gjorgiev,90
+1182973,2024-04-28T14:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 29,Struga,Sileks,A. Grujoski,90
+1182978,2024-05-01T14:00:00+00:00,UTC,Gradski Stadion,Kavadarci,First League,Macedonia,Regular Season - 30,Tikveš,Struga,D. Pileshkov,90
+1182986,2024-05-04T15:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 31,Struga,KF Gostivari,M. Mladenovski,90
+1182989,2024-05-12T15:00:00+00:00,UTC,Ecolog Arena,Tetovo,First League,Macedonia,Regular Season - 32,Shkendija,Struga,S. Trpchevski,90
+1182999,2024-05-18T15:00:00+00:00,UTC,Gradska Plaža Stadium,Struga,First League,Macedonia,Regular Season - 33,Struga,Shkupi 1927,A. Grujoski,90
+1144458,2024-01-20T17:30:00+00:00,UTC,The moreroom.com Stadium,Dumbarton,FA Cup,Scotland,4th Round,Dumbarton,Rangers,A. Muir,90
+1144456,2024-01-21T16:00:00+00:00,UTC,Celtic Park,Glasgow,FA Cup,Scotland,4th Round,Celtic,Buckie Thistle,C. Graham,90
+1162563,2024-02-10T17:30:00+00:00,UTC,Ibrox Stadium,Glasgow,FA Cup,Scotland,5th Round,Rangers,Ayr Utd,W. Collum,90
+1162565,2024-02-11T14:00:00+00:00,UTC,The SMISA Stadium,Paisley,FA Cup,Scotland,5th Round,ST Mirren,Celtic,D. Dickinson,90
+1174069,2024-03-10T14:30:00+00:00,UTC,Celtic Park,Glasgow,FA Cup,Scotland,Quarter-finals,Celtic,Livingston,W. Collum,90
+1174071,2024-03-10T17:30:00+00:00,UTC,Easter Road Stadium,Edinburgh,FA Cup,Scotland,Quarter-finals,Hibernian,Rangers,S. McLean,90
+1184574,2024-04-21T14:00:00+00:00,UTC,Hampden Park,Glasgow,FA Cup,Scotland,Semi-finals,Rangers,Heart Of Midlothian,S. McLean,90
+1197177,2024-05-25T14:00:00+00:00,UTC,Hampden Park,Glasgow,FA Cup,Scotland,Final,Celtic,Rangers,N. Walsh,90
