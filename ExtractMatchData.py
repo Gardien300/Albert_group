@@ -304,7 +304,7 @@ df_matchs = pd.get_dummies(df_matchs, columns=['venue_surface'])
 # conversion des compositions des équipes en données exploitables (4 colonnes - une pour chaque "ligne" de joueur)
 def extract_positions(formation):
     if not isinstance(formation, str) or formation.strip() == "":
-        return 0, 0, 0, 0
+        return 4, 3, 3, 0
     
     parts = formation.strip().split('-')
     try:
@@ -313,7 +313,7 @@ def extract_positions(formation):
         forwards = int(parts[2]) if len(parts) > 2 else 0
         goal_scorers = int(parts[3]) if len(parts) > 3 else forwards
     except ValueError:
-        return 0, 0, 0, 0  # Retourne des zéros si une valeur n'est pas convertible
+        return 4, 3, 3, 0  # Retourne des zéros si une valeur n'est pas convertible
     
     return defenders, midfielders, forwards, goal_scorers
 
